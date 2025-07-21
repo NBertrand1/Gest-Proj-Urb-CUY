@@ -1,0 +1,16 @@
+# Dépendances Node
+/node_modules
+
+# Variables d'environnement
+.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Fichiers de build ou temporaires
+/dist
+/build
+.DS_Store
